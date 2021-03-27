@@ -5,8 +5,8 @@ import { createStackNavigator } from '@react-navigation/stack';
 //페이지로 만든 컴포넌트들을 불러옵니다
 import SignInPage from '../pages/SignInPage';
 import SignUpPage from '../pages/SignUpPage';
-import DetailPage from '../pages/DetailPage';
 
+import DetailPage from '../pages/DetailPage';
 import TabNavigator from './TabNavigator';
 
 //스택 네비게이션 라이브러리가 제공해주는 여러 기능이 담겨있는 객체를 사용합니다
